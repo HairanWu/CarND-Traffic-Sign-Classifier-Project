@@ -247,7 +247,7 @@ show_one_class_images(X_train,y_train,21)
     
 
 
-![png](output_11_1.png)
+![png](resources/output_11_1.png)
 
 
 ####  Random show one image of all class from dataset.
@@ -263,7 +263,7 @@ show_all_class_images(X_train,y_train)
     
 
 
-![png](output_13_1.png)
+![png](resources/output_13_1.png)
 
 
 ### Show all class by class from dataset.
@@ -277,147 +277,147 @@ show_class_by_class_images(X_train,y_train)
     
 
 
-![png](output_15_1.png)
+![png](resources/output_15_1.png)
 
 
     Show Class=[1],Name=[Speed limit (30km/h)] from data set,Show length is [10],Total length is [1980]
     
 
 
-![png](output_15_3.png)
+![png](resources/output_15_3.png)
 
 
     Show Class=[2],Name=[Speed limit (50km/h)] from data set,Show length is [10],Total length is [2010]
     
 
 
-![png](output_15_5.png)
+![png](resources/output_15_5.png)
 
 
     Show Class=[3],Name=[Speed limit (60km/h)] from data set,Show length is [10],Total length is [1260]
     
 
 
-![png](output_15_7.png)
+![png](resources/output_15_7.png)
 
 
     Show Class=[4],Name=[Speed limit (70km/h)] from data set,Show length is [10],Total length is [1770]
     
 
 
-![png](output_15_9.png)
+![png](resources/output_15_9.png)
 
 
     Show Class=[5],Name=[Speed limit (80km/h)] from data set,Show length is [10],Total length is [1650]
     
 
 
-![png](output_15_11.png)
+![png](resources/output_15_11.png)
 
 
     Show Class=[6],Name=[End of speed limit (80km/h)] from data set,Show length is [10],Total length is [360]
     
 
 
-![png](output_15_13.png)
+![png](resources/output_15_13.png)
 
 
     Show Class=[7],Name=[Speed limit (100km/h)] from data set,Show length is [10],Total length is [1290]
     
 
 
-![png](output_15_15.png)
+![png](resources/output_15_15.png)
 
 
     Show Class=[8],Name=[Speed limit (120km/h)] from data set,Show length is [10],Total length is [1260]
     
 
 
-![png](output_15_17.png)
+![png](resources/output_15_17.png)
 
 
     Show Class=[9],Name=[No passing] from data set,Show length is [10],Total length is [1320]
     
 
 
-![png](output_15_19.png)
+![png](resources/output_15_19.png)
 
 
     Show Class=[10],Name=[No passing for vehicles over 3.5 metric tons] from data set,Show length is [10],Total length is [1800]
     
 
 
-![png](output_15_21.png)
+![png](resources/output_15_21.png)
 
 
     Show Class=[11],Name=[Right-of-way at the next intersection] from data set,Show length is [10],Total length is [1170]
     
 
 
-![png](output_15_23.png)
+![png](resources/output_15_23.png)
 
 
     Show Class=[12],Name=[Priority road] from data set,Show length is [10],Total length is [1890]
     
 
 
-![png](output_15_25.png)
+![png](resources/output_15_25.png)
 
 
     Show Class=[13],Name=[Yield] from data set,Show length is [10],Total length is [1920]
     
 
 
-![png](output_15_27.png)
+![png](resources/output_15_27.png)
 
 
     Show Class=[14],Name=[Stop] from data set,Show length is [10],Total length is [690]
     
 
 
-![png](output_15_29.png)
+![png](resources/output_15_29.png)
 
 
     Show Class=[15],Name=[No vehicles] from data set,Show length is [10],Total length is [540]
     
 
 
-![png](output_15_31.png)
+![png](resources/output_15_31.png)
 
 
     Show Class=[16],Name=[Vehicles over 3.5 metric tons prohibited] from data set,Show length is [10],Total length is [360]
     
 
 
-![png](output_15_33.png)
+![png](resources/output_15_33.png)
 
 
     Show Class=[17],Name=[No entry] from data set,Show length is [10],Total length is [990]
     
 
 
-![png](output_15_35.png)
+![png](resources/output_15_35.png)
 
 
     Show Class=[18],Name=[General caution] from data set,Show length is [10],Total length is [1080]
     
 
 
-![png](output_15_37.png)
+![png](resources/output_15_37.png)
 
 
     Show Class=[19],Name=[Dangerous curve to the left] from data set,Show length is [10],Total length is [180]
     
 
 
-![png](output_15_39.png)
+![png](resources/output_15_39.png)
 
 
     Show Class=[20],Name=[Dangerous curve to the right] from data set,Show length is [10],Total length is [300]
     
 
 
-![png](output_15_41.png)
+![png](resources/output_15_41.png)
 
 
     Show Class=[21],Name=[Double curve] from data set,Show length is [10],Total length is [270]
@@ -431,147 +431,147 @@ show_class_by_class_images(X_train,y_train)
     
 
 
-![png](output_15_45.png)
+![png](resources/output_15_45.png)
 
 
     Show Class=[23],Name=[Slippery road] from data set,Show length is [10],Total length is [450]
     
 
 
-![png](output_15_47.png)
+![png](resources/output_15_47.png)
 
 
     Show Class=[24],Name=[Road narrows on the right] from data set,Show length is [10],Total length is [240]
     
 
 
-![png](output_15_49.png)
+![png](resources/output_15_49.png)
 
 
     Show Class=[25],Name=[Road work] from data set,Show length is [10],Total length is [1350]
     
 
 
-![png](output_15_51.png)
+![png](resources/output_15_51.png)
 
 
     Show Class=[26],Name=[Traffic signals] from data set,Show length is [10],Total length is [540]
     
 
 
-![png](output_15_53.png)
+![png](resources/output_15_53.png)
 
 
     Show Class=[27],Name=[Pedestrians] from data set,Show length is [10],Total length is [210]
     
 
 
-![png](output_15_55.png)
+![png](resources/output_15_55.png)
 
 
     Show Class=[28],Name=[Children crossing] from data set,Show length is [10],Total length is [480]
     
 
 
-![png](output_15_57.png)
+![png](resources/output_15_57.png)
 
 
     Show Class=[29],Name=[Bicycles crossing] from data set,Show length is [10],Total length is [240]
     
 
 
-![png](output_15_59.png)
+![png](resources/output_15_59.png)
 
 
     Show Class=[30],Name=[Beware of ice/snow] from data set,Show length is [10],Total length is [390]
     
 
 
-![png](output_15_61.png)
+![png](resources/output_15_61.png)
 
 
     Show Class=[31],Name=[Wild animals crossing] from data set,Show length is [10],Total length is [690]
     
 
 
-![png](output_15_63.png)
+![png](resources/output_15_63.png)
 
 
     Show Class=[32],Name=[End of all speed and passing limits] from data set,Show length is [10],Total length is [210]
     
 
 
-![png](output_15_65.png)
+![png](resources/output_15_65.png)
 
 
     Show Class=[33],Name=[Turn right ahead] from data set,Show length is [10],Total length is [599]
     
 
 
-![png](output_15_67.png)
+![png](resources/output_15_67.png)
 
 
     Show Class=[34],Name=[Turn left ahead] from data set,Show length is [10],Total length is [360]
     
 
 
-![png](output_15_69.png)
+![png](resources/output_15_69.png)
 
 
     Show Class=[35],Name=[Ahead only] from data set,Show length is [10],Total length is [1080]
     
 
 
-![png](output_15_71.png)
+![png](resources/output_15_71.png)
 
 
     Show Class=[36],Name=[Go straight or right] from data set,Show length is [10],Total length is [330]
     
 
 
-![png](output_15_73.png)
+![png](resources/output_15_73.png)
 
 
     Show Class=[37],Name=[Go straight or left] from data set,Show length is [10],Total length is [180]
     
 
 
-![png](output_15_75.png)
+![png](resources/output_15_75.png)
 
 
     Show Class=[38],Name=[Keep right] from data set,Show length is [10],Total length is [1860]
     
 
 
-![png](output_15_77.png)
+![png](resources/output_15_77.png)
 
 
     Show Class=[39],Name=[Keep left] from data set,Show length is [10],Total length is [270]
     
 
 
-![png](output_15_79.png)
+![png](resources/output_15_79.png)
 
 
     Show Class=[40],Name=[Roundabout mandatory] from data set,Show length is [10],Total length is [300]
     
 
 
-![png](output_15_81.png)
+![png](resources/output_15_81.png)
 
 
     Show Class=[41],Name=[End of no passing] from data set,Show length is [10],Total length is [210]
     
 
 
-![png](output_15_83.png)
+![png](resources/output_15_83.png)
 
 
     Show Class=[42],Name=[End of no passing by vehicles over 3.5 metric tons] from data set,Show length is [10],Total length is [210]
     
 
 
-![png](output_15_85.png)
+![png](resources/output_15_85.png)
 
 
 ### Histogram visualization function defintion
@@ -640,14 +640,14 @@ show_single_class_histogram(y_test)
     
 
 
-![png](output_19_1.png)
+![png](resources/output_19_1.png)
 
 
     Valid dataset showing:
     
 
 
-![png](output_19_3.png)
+![png](resources/output_19_3.png)
 
 
     Test dataset showing:
@@ -669,7 +669,7 @@ show_compared_class_histogram(y_train,y_test,n_classes)
     
 
 
-![png](output_21_1.png)
+![png](resources/output_21_1.png)
 
 
 ----
@@ -825,7 +825,7 @@ gen_class_images_show(X_train,y_train,21)
 ```
 
 
-![png](output_29_0.png)
+![png](resources/output_29_0.png)
 
 
     Generating of RGB image (class = 21)
@@ -834,7 +834,7 @@ gen_class_images_show(X_train,y_train,21)
     
 
 
-![png](output_29_2.png)
+![png](resources/output_29_2.png)
 
 
 #### Image Data Generator function definition
@@ -980,7 +980,7 @@ show_compared_class_histogram(y_train,y_valid,n_classes)
 ```
 
 
-![png](output_41_0.png)
+![png](resources/output_41_0.png)
 
 
 ### Pre-process the Data Set (normalization, grayscale, etc.)
@@ -1558,7 +1558,7 @@ show_all_images(incorrectly_predictedx,incorrectly_predictedy)
     
 
 
-![png](output_67_1.png)
+![png](resources/output_67_1.png)
 
 
 
@@ -1573,7 +1573,7 @@ show_one_class_images(incorrectly_predictedx,incorrectly_predictedy,12,50,False)
     
 
 
-![png](output_68_1.png)
+![png](resources/output_68_1.png)
 
 
 
@@ -1587,7 +1587,7 @@ show_single_class_histogram(incorrectly_predictedy,n_classes)
     
 
 
-![png](output_69_1.png)
+![png](resources/output_69_1.png)
 
 
 ---
@@ -1629,7 +1629,7 @@ show_images(test_images)
 ```
 
 
-![png](output_72_0.png)
+![png](resources/output_72_0.png)
 
 
 ### Predict the Sign Type for Each Image
@@ -1671,7 +1671,7 @@ plt.show()
     
 
 
-![png](output_74_1.png)
+![png](resources/output_74_1.png)
 
 
 ### Analyze Performance
@@ -1825,7 +1825,7 @@ plt.show()
     
 
 
-![png](output_85_1.png)
+![png](resources/output_85_1.png)
 
 
 #### conv1 Layer
@@ -1842,7 +1842,7 @@ outputFeatureMapLayer(image_input,1)
     
 
 
-![png](output_87_1.png)
+![png](resources/output_87_1.png)
 
 
 #### conv2 Layer
@@ -1859,7 +1859,7 @@ outputFeatureMapLayer(image_input,2)
     
 
 
-![png](output_89_1.png)
+![png](resources/output_89_1.png)
 
 
 #### conv3 Layer
@@ -1876,7 +1876,7 @@ outputFeatureMapLayer(image_input,3)
     
 
 
-![png](output_91_1.png)
+![png](resources/output_91_1.png)
 
 
 #### conv4 Layer
@@ -1893,7 +1893,7 @@ outputFeatureMapLayer(image_input,4)
     
 
 
-![png](output_93_1.png)
+![png](resources/output_93_1.png)
 
 
 #### conv5 Layer
@@ -1910,7 +1910,7 @@ outputFeatureMapLayer(image_input,5)
     
 
 
-![png](output_95_1.png)
+![png](resources/output_95_1.png)
 
 
 #### conv6 Layer
@@ -1927,5 +1927,5 @@ outputFeatureMapLayer(image_input,6)
     
 
 
-![png](output_97_1.png)
+![png](resources/output_97_1.png)
 
