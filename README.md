@@ -424,7 +424,7 @@ show_class_by_class_images(X_train,y_train)
     
 
 
-![png](output_15_43.png)
+![png](resources/output_15_43.png)
 
 
     Show Class=[22],Name=[Bumpy road] from data set,Show length is [10],Total length is [330]
@@ -654,7 +654,7 @@ show_single_class_histogram(y_test)
     
 
 
-![png](output_19_5.png)
+![png](resources/output_19_5.png)
 
 
 ### Histogram visualization comparation of the original train and test dataset
